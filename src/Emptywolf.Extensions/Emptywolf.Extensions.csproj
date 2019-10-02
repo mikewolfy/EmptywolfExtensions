@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Authors>Emptywolf</Authors>
+    <Description>Helpful extensions</Description>
   </PropertyGroup>
 
 </Project>
